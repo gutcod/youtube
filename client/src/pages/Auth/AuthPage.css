@@ -1,0 +1,9 @@
+.centered {
+    width: 400px;
+    height: auto;
+    position: fixed;
+    top: 30%;
+    left: 35%;
+    background-color: gainsboro;
+
+}
