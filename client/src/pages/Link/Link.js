@@ -11,6 +11,7 @@ export const LinksPage = () => {
       <h1>Link</h1>
 
       <button onClick={hadleSubmit}>put</button>
+      {console.log(localStorage.getItem(userId))}
     </div>
   );
 };
